@@ -4,7 +4,7 @@
 
 ## View
 
-The bootstrap template of my resume is accecible [here](https://12rambau.github.io/web-resume/) 
+The bootstrap template of my resume is accecible [here](https://12rambau.github.io/noel-2019/) 
 
 ## Copyright and License
 
